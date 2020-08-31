@@ -1,0 +1,10 @@
+.progress-bar-container {
+  background-color: lightgray;
+  height: 10px;
+
+  .progress-bar {
+    background-color: lightgreen;
+    transition-property: width;
+    transition-duration: 4s;
+  }
+}
